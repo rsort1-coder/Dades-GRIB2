@@ -1,0 +1,31 @@
+Campos incluidos:
+     Indicativo: Indicativo climatológico
+     NOMBRE: Nombre estación
+     ALTITUD: Altitud de la estación (metros)
+     LONGITUD: Longitud geográfica
+          (La última cifra indica la orientación: 1 para longitud E y 2 para W)
+     LATITUD: Latitud geográfica
+     PRESM00: Presión media al nivel de referencia de la estación a 00
+     PRESM07: Presión media al nivel de referencia de la estación a 07
+     PRESM13: Presión media al nivel de referencia de la estación a 13
+     PRESM18: Presión media al nivel de referencia de la estación a 18
+     PRESMED: Presión media mensual al nivel de referencia de la estación
+     PRESMAXM: Presión máxima absoluta mensual al nivel de referencia
+     FPRESMAXM: Fecha presión máxima mensual
+     HPRESMAXM: Hora presión máxima mensual
+     PRESMINM: Presión mínima absoluta mensual al nivel de referencia
+     FPRESMINM: Fecha presión mínima mensual
+     HPRESMINM: Hora presión mínima mensual
+     PRESMMAR00: Presión media al nivel de reducción a 00
+     PRESMMAR07: Presión media al nivel de reducción a 07
+     PRESMMAR13: Presión media al nivel de reducción a 13
+     PRESMMAR18: Presión media al nivel de reducción a 18
+     PRESMMAR: Presión media mensual al nivel de reducción
+     NDIAS1: Número de días con datos incompletos de presión al nivel de la estación
+     NDIAS2: Número de días con datos incompletos de presión al nivel de reducción
+
+Unidades y valores especiales:
+
+     Horas UTC (Tiempo Universal Coordinado)
+
+     Presión en décimas de hectopascal
